@@ -42,6 +42,4 @@ Criar um portfólio profissional para demonstrar conhecimentos em:
 - Estilização com CSS
 - Organização de projetos utilizando GitHub
 
----
 
-## 📂 Estrutura do projeto
